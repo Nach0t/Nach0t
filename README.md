@@ -25,9 +25,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nach0t&layout=compact" alt="Top Lenguajes" style="margin-right: 10px;">
-    <div style="width: 20px;"></div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Nach0t&show_icons=true&theme=neon" alt="Tus estadísticas de GitHub">
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nach0t&layout=compact" alt="Top Lenguajes">
+    </div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Nach0t&show_icons=true&theme=neon" alt="Tus estadísticas de GitHub">
+    </div>
 </div>
-
