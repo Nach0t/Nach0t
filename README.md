@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Estrellas](https://img.shields.io/github/stars/USUARIO/NOMBRE_DEL_REPOSITORIO.svg)](https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO/stargazers)
-
-[![Forks](https://img.shields.io/github/forks/USUARIO/NOMBRE_DEL_REPOSITORIO.svg)](https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO/network/members)
-
+[![Estrellas](https://img.shields.io/github/stars/Nach0t.svg)](https://github.com/Nach0t/stargazers)
