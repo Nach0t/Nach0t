@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nach0t&layout=compact)
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Nach0t&show_icons=true&theme=neon)
+
