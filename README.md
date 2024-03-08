@@ -1,7 +1,7 @@
 ### Hello I'm Ignacio, I did this because I was bored. LMAO
 
 
-##I'm a software developer who enjoys coding in Python and Java, but personally, I prefer Python.
+I'm a software developer who enjoys coding in Python and Java, but personally, I prefer Python.
 
 | Language        | Level      | Proficiency |
 |-----------------|------------|-------------|
