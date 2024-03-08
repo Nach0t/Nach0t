@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nach0t&layout=compact" alt="Top Lenguajes" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Nach0t&show_icons=true&theme=neon" alt="Tus estadísticas de GitHub">
 </div>
-
