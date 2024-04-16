@@ -3,7 +3,7 @@
 
 I'm a software developer who enjoys coding in Python and Java, but personally, I prefer Python.
 
-Operating systems are like playgrounds to me, and I navigate between Kubuntu and Windows 11 to get the best of both worlds—Kubuntu for its open-source charm and Windows 11 for its versatility.
+I navigate between Kubuntu and Windows 11 to get the best of both worlds—Kubuntu for its open-source charm and Windows 11 for its versatility.
 <!--
 **Nach0t/Nach0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
