@@ -1,7 +1,7 @@
 ### Hello I'm Ignacio, I did this because I was bored. LMAO
 
 
-I'm a software developer who enjoys coding in Python and Java, but personally, I prefer Python.
+I'm a software developer who codes in Python, Rust and Java, but I currently prefer Rust.
 
 I navigate between Kubuntu and Windows 11 to get the best of both worlds—Kubuntu for its open-source charm and Windows 11 for its versatility.
 <!--
