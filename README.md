@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 |----------|-------|---------|
 | Español  | C2    | Avanzado|
 | Inglés   | B1    | Intermedio|
-| Francés  | A1    | Básico  |
+| Aleman   | A1    | Básico  |
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
