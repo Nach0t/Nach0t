@@ -1,9 +1,6 @@
-### Hello I'm Ignacio, I did this because I was bored. LMAO
+### I'm Ignacio, a software developer with expertise in Python, Rust, and Java, currently favoring Rust for its performance and reliability. 
 
-
-I'm a software developer who codes in Python, Rust and Java, but I currently prefer Rust.
-
-I navigate between Kubuntu and Windows 11 to get the best of both worlds—Kubuntu for its open-source charm and Windows 11 for its versatility.
+I alternate between Kubuntu and Windows 11 to leverage the benefits of open-source innovation and practical versatility.
 <!--
 **Nach0t/Nach0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
