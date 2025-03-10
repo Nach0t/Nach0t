@@ -1,6 +1,5 @@
 ### I'm Ignacio, a software developer with expertise in Python, Rust, and Java. 
 
-I alternate between Kubuntu and Windows 11 to leverage the benefits of open-source innovation and practical versatility.
 <!--
 **Nach0t/Nach0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
