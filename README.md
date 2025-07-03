@@ -1,4 +1,4 @@
-### I'm Ignacio, a software developer with expertise in Python, Rust, and Java. 
+### I'm Ignacio, a software developer with expertise in Python and Rust.
 
 <!--
 **Nach0t/Nach0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
