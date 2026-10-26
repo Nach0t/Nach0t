@@ -54,6 +54,3 @@ Estudiante de Ingeniería en Computación con gran interés en el desarrollo de 
 
 ---
 
-<p align="center">
-  <em>"La simplicidad es el alma de la eficiencia."</em>
-</p>
