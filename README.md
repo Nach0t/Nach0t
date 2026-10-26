@@ -1,37 +1,60 @@
-### I'm Ignacio, a software developer.
+<h1 align="center">¡Hola, qué tal! 👋 Soy Ignacio Rehbein</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Explorando_IA_y_Ciberseguridad-blue?style=flat-square&logo=appveyor" alt="Status" />
+</p>
 
-<!--
-**Nach0t/Nach0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>💻 Computer Science Engineering Student | 🤖 AI-Assisted Developer | 🔒 Cybersecurity Enthusiast</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### 🚀 Sobre mí
 
-| Idioma   | Nivel | Dominio |
-|----------|-------|---------|
-| Español  | C2    | Avanzado|
-| Inglés   | B1    | Intermedio|
-| Aleman   | A1    | Básico  |
+Estudiante de Ingeniería en Computación con debilidad por el desarrollo de software independiente, la inteligencia artificial y la ciberseguridad. Me apasiona potenciar los flujos de trabajo mediante herramientas de IA para resolver problemas complejos y explorar nuevas ideas de manera eficiente.
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 **Educación:** Ingeniería en Computación e Informática.
+* 🛡️ **Especialización:** Ciberseguridad (Master's Degree).
+* 🤖 **Proyecto Actual:** Modelos de Machine Learning y optimización con redes neuronales.
+* ⚡ **Filosofía:** Desarrollo independiente apalancado con IA y automatización.
 
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nach0t&layout=compact" alt="Top Lenguajes">
-    </div>
-    <div style="margin-left: 10px;">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </div>
-</div>
+---
 
+### 🛠️ Lenguajes y Herramientas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <!-- Core & Lenguajes -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  
+  <!-- Entorno y Control de Versiones -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  
+  <!-- IA & Ciberseguridad / Dev -->
+  <img src="https://img.shields.io/badge/AI_Assisted-0052CC?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1E1E1E?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+</p>
 
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ignacio's GitHub Stats" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <em>"La simplicidad es el alma de la eficiencia."</em>
+</p>
