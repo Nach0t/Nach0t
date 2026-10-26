@@ -15,7 +15,7 @@
 Estudiante de Ingeniería en Computación con gran interés en el desarrollo de software independiente, la inteligencia artificial y la ciberseguridad. Me apasiona resolver problemas complejos, construir soluciones eficientes y explorar constantemente nuevas tecnologías.
 
 * 🎓 **Educación:** Ingeniería en Computación e Informática.
-* 🛡️ **Especialización:** Ciberseguridad.
+* 🛡️ **Especialización:** Analista de datos y Ciberseguridad
 * 🤖 **Proyecto Actual:** Modelos de Machine Learning y optimización con redes neuronales.
 * ⚡ **Enfoque:** Desarrollo de software, ingeniería de datos y automatización.
 
